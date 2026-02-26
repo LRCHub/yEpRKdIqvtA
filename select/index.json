@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "超 Super Star",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-02-26T21:42:35.466751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "超",
+      "artist": "KKECHO",
+      "has_synced": true,
+      "path": "select/01_超_KKECHO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "超 Super Star",
+      "artist": "SKRYU",
+      "has_synced": true,
+      "path": "select/02_超_Super_Star_SKRYU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "超",
+      "artist": "李宇春",
+      "has_synced": false,
+      "path": "select/03_超_李宇春.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "超 L A R G E",
+      "artist": "Teriyaki Boyz feat. Pharrell Williams",
+      "has_synced": false,
+      "path": "select/04_超_L_A_R_G_E_Teriyaki_Boyz_feat._Pharrell_Williams.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "超・スリラ",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/05_超・スリラ_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "超！！遠距離らぶ♡メ～ル",
+      "artist": "ななひら",
+      "has_synced": false,
+      "path": "select/06_超!!遠距離らぶ♡メ~ル_ななひら.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "超 (超)",
+      "artist": "KKECHO, Ty., & REDBOI",
+      "has_synced": true,
+      "path": "select/07_超_(超)_KKECHO,_Ty.,_&_REDBOI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "超!!遠距離らぶ♡メ～ル",
+      "artist": "Nanahira",
+      "has_synced": false,
+      "path": "select/08_超!!遠距離らぶ♡メ~ル_Nanahira.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "超 L A R G E - Cho L A R G E (feat. Pharrell Williams)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": false,
+      "path": "select/09_超_L_A_R_G_E_-_Cho_L_A_R_G_E_(feat._Pharrell_Williams)_Teriyaki_Boyz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "超 Climax Jump",
+      "artist": "DEN-O ALL STARS",
+      "has_synced": false,
+      "path": "select/10_超_Climax_Jump_DEN-O_ALL_STARS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "超！最強！ウォーリアーズ",
+      "artist": "サイキックラバー",
+      "has_synced": true,
+      "path": "select/11_超!最強!ウォーリアーズ_サイキックラバー.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "超 L A R G E",
+      "artist": "Teriyaki Boyz",
+      "has_synced": false,
+      "path": "select/12_超_L_A_R_G_E_Teriyaki_Boyz.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "超 CHIU",
+      "artist": "The Low Mays",
+      "has_synced": true,
+      "path": "select/13_超_CHIU_The_Low_Mays.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "超・スリラ",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/14_超・スリラ_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "超!!遠距離らぶ♡メ～ル",
+      "artist": "Konami",
+      "has_synced": false,
+      "path": "select/15_超!!遠距離らぶ♡メ~ル_Konami.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "超! 最強! ウォーリアーズ",
+      "artist": "サイキックラバー",
+      "has_synced": true,
+      "path": "select/16_超!_最強!_ウォーリアーズ_サイキックラバー.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "超・催眠術",
+      "artist": "Queen Bee",
+      "has_synced": true,
+      "path": "select/17_超・催眠術_Queen_Bee.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "超・催眠術",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/18_超・催眠術_女王蜂.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超 Super Star",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_超_Super_Star_SKRYU.txt"
+    }
+  ]
+}
